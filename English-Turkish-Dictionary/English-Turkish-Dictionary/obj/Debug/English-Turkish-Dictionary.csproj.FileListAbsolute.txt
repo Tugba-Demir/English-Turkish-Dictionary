@@ -1,0 +1,14 @@
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\bin\Debug\English-Turkish-Dictionary.exe.config
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\bin\Debug\English-Turkish-Dictionary.exe
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\bin\Debug\English-Turkish-Dictionary.pdb
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English_Turkish_Dictionary.Form1.resources
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English_Turkish_Dictionary.Properties.Resources.resources
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.csproj.GenerateResource.cache
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.csproj.CoreCompileInputs.cache
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.exe
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.pdb
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.csproj.AssemblyReference.cache
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\bin\Debug\English-Turkish-Dictionary.exe.manifest
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\bin\Debug\English-Turkish-Dictionary.application
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.exe.manifest
+C:\c#Projects\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.application
